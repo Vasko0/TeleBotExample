@@ -21,7 +21,7 @@ To start off, you can clone this repository using git:
 $ git clone https://github.com/php-telegram-bot/example-bot.git
 ```
 
-or better yet, download it as a zip file:
+or better yet, download it as a zip-file:
 
 ```bash
 $ curl -o example-bot.zip https://github.com/php-telegram-bot/example-bot/archive/master.zip
