@@ -72,11 +72,11 @@ return [
     // ],
 
     // Logging (Debug, Error and Raw Updates)
-    // 'logging'  => [
-    //     'debug'  => __DIR__ . '/php-telegram-bot-debug.log',
-    //     'error'  => __DIR__ . '/php-telegram-bot-error.log',
-    //     'update' => __DIR__ . '/php-telegram-bot-update.log',
-    // ],
+     'logging'  => [
+         'debug'  => __DIR__ . '/php-telegram-bot-debug.log',
+         'error'  => __DIR__ . '/php-telegram-bot-error.log',
+         'update' => __DIR__ . '/php-telegram-bot-update.log',
+     ],
 
     // Set custom Upload and Download paths
     'paths'        => [
