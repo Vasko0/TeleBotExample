@@ -29,7 +29,7 @@ return [
     'bot_username' => 'LazarShopBot', // Without "@"
 
     // [Manager Only] Secret key required to access the webhook
-    'secret'       => 'super_secret',
+    'secret'       => 'p7anAW0nudN9',
 
     // When using the getUpdates method, this can be commented out
     'webhook'      => [
