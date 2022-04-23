@@ -25,7 +25,7 @@
 
 return [
     // Add you bot's API key and name
-    'api_key'      => '513:AACjLXtd2S24EVmr3n0RE',
+    'api_key'      => '5136303228:AAHF6YNlQHmw_Qn8CjLXtd2S24EVmr3n0RE',
     //'bot_username' => 'LazarShopBot', // Without "@"
 
     // [Manager Only] Secret key required to access the webhook
