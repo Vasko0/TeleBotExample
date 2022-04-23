@@ -26,10 +26,10 @@
 return [
     // Add you bot's API key and name
     'api_key'      => '5136303228:AAHF6YNlQHmw_Qn8CjLXtd2S24EVmr3n0RE',
-    'bot_username' => 'LazarShopBot', // Without "@"
+    //'bot_username' => 'LazarShopBot', // Without "@"
 
     // [Manager Only] Secret key required to access the webhook
-    'secret'       => 'p7anAW0nudN9',
+    //'secret'       => 'p7anAW0nudN9',
 
     // When using the getUpdates method, this can be commented out
     'webhook'      => [
@@ -48,20 +48,20 @@ return [
              __DIR__ . '/CustomCommands',
         ],
         // Here you can set any command-specific parameters
-        'configs' => [
+       /* 'configs' => [
             // - Google geocode/timezone API key for /date command (see DateCommand.php)
             // 'date'    => ['google_api_key' => 'your_google_api_key_here'],
             // - OpenWeatherMap.org API key for /weather command (see WeatherCommand.php)
             // 'weather' => ['owm_api_key' => 'your_owm_api_key_here'],
             // - Payment Provider Token for /payment command (see Payments/PaymentCommand.php)
             // 'payment' => ['payment_provider_token' => 'your_payment_provider_token_here'],
-        ],
+        ],*/
     ],
 
     // Define all IDs of admin users
-    'admins'       => [
+   /* 'admins'       => [
         // 123,
-    ],
+    ],*/
 
     // Enter your MySQL database credentials
     // 'mysql'        => [
